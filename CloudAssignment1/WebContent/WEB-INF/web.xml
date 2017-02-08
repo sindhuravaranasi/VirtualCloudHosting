@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  
+  <servlet>
+    <servlet-name>Multiplication</servlet-name>
+    <servlet-class>Multiplication</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Multiplication</servlet-name>
+    <url-pattern>/Multiplication</url-pattern>
+  </servlet-mapping>
+</web-app>
